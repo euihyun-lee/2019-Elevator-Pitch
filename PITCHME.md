@@ -31,5 +31,5 @@
 @snapend
 
 @snap[south-east]
-########### Logos from python.org, developer.android.com, tensorflow.org, pytorch.org, and qemu.org
+# @size[0.1em](Logos from python.org, developer.android.com, tensorflow.org, pytorch.org, and qemu.org)
 @snapend
