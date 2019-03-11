@@ -59,11 +59,11 @@
 ## Android: Successful Works
 @snapend
 
-@snap[south-west span-50]
+@snap[west span-40]
 ![](assets/img/android-2nd-prize.jpg)
 @snapend
 
-@snap[south-east span-50]
+@snap[east span-40]
 ![](assets/img/battery-consumption.png)
 @snapend
 
@@ -77,6 +77,6 @@
 ## Android: Successful Works
 @snapend
 
-@snap[south-west]
+@snap[south]
 ![](assets/img/sars.png)
 @snapend
