@@ -55,7 +55,9 @@
 
 ---
 
+@snap[north-west]
 ## Android: Successful Works
+@snapend
 
 @snap[west span-65]
 @ul
@@ -65,7 +67,7 @@
 @snapend
 
 @snap[east span-35]
-![](assets/img/android-2nd-prize.png)
+![](assets/img/android-2nd-prize.jpg)
 @snapend
 
 @snap[south-east]
