@@ -57,7 +57,16 @@
 
 ## Android: Successful Works
 
-![](assets/img/android.png)
+@snap[west span-65]
+@ul
+- Pre-scoring with Social answer checking
+- for TOEIC, TEPS, ...
+@ulend
+@snapend
+
+@snap[east span-35]
+![](assets/img/android-2nd-prize.png)
+@snapend
 
 @snap[south-east]
 # @size[0.1em](battery run-out image from buyijet.com)
