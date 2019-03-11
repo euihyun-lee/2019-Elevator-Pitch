@@ -33,3 +33,17 @@
 @snap[south-east]
 # @size[0.1em](Logos from python.org, developer.android.com, tensorflow.org, pytorch.org, and qemu.org)
 @snapend
+
+---
+
+@snap[north-west]
+## Python: Undergraduate Course TA
+@snapend
+
+@snap[west span-45]
+## Since 2012
+@snapend
+
+@snap[east span-55]
+![](assets/img/cs101-logo.png)
+@snapend
