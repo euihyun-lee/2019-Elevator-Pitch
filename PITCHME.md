@@ -6,6 +6,6 @@
 ## blah blah
 @snapend
 
-@snap[east span-70]
+@snap[east span-100]
 ![](assets/img/graduation.jpg)
 @snapend
