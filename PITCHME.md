@@ -17,7 +17,7 @@
 ## I have worked with these...
 @snapend
 
-@snap[west span-55]
+@snap[west span-65]
 @ul
 - Python
 - Android
@@ -26,6 +26,6 @@
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-35]
 ![](assets/img/logos.png)
 @snapend
