@@ -70,6 +70,22 @@
 ![](assets/img/android-2nd-prize.jpg)
 @snapend
 
+---
+
+@snap[north-west]
+## Android: Successful Works
+@snapend
+
+@snap[west span-65]
+### Battery Consumption Attack on Android
+![](assets/img/battery-consumption-1.png)
+![](assets/img/battery-consumption-2.png)
+@snapend
+
+@snap[east span-35]
+![](assets/img/battery-consumption.png)
+@snapend
+
 @snap[south-east]
 # @size[0.1em](battery run-out image from buyijet.com)
 @snapend
