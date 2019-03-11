@@ -82,7 +82,7 @@
 ![](assets/img/battery-consumption-2.png)
 @snapend
 
-@snap[east span-35]
+@snap[east span-25]
 ![](assets/img/battery-consumption.png)
 @snapend
 
