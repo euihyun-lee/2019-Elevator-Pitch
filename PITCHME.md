@@ -13,7 +13,7 @@
 
 ---
 
-@snap[north]
+@snap[north-west]
 ## I have worked with these...
 @snapend
 
