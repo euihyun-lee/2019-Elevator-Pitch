@@ -25,3 +25,7 @@
 - QEMU
 @ulend
 @snapend
+
+@snap[east]
+![](assets/img/logos.png)
+@snapend
