@@ -92,13 +92,8 @@
 
 ---
 
-@snap[north-west]
 ## Machine Learning Frameworks
-@snapend
-
-@snap[midpoint]
 ![](assets/img/ml.png)
-@snapend
 
 @snap[south-east]
 # @size[0.1em](cnn image from mathworks.com)
