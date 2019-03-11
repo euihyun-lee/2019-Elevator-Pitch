@@ -56,22 +56,25 @@
 ---
 
 @snap[north-west]
-## Android:
-## Some Successful Projects
+## Android: Successful Projects
 @snapend
 
-@snap[west span-30]
+@snap[west span-50]
 ![](assets/img/android-2nd-prize.jpg)
 @snapend
 
-@snap[midpoint span-20]
-![](assets/img/battery-consumption.png)
-@snapend
-
 @snap[east span-50]
-![](assets/img/sars.png)
+![](assets/img/battery-consumption.png)
 @snapend
 
 @snap[south-east]
 # @size[0.1em](battery run-out image from buyijet.com)
 @snapend
+
+---
+
+@snap[north-west]
+## Android: Successful Projects
+@snapend
+
+![](assets/img/sars.png)
