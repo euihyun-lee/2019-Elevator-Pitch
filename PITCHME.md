@@ -63,7 +63,7 @@
 ![](assets/img/android-2nd-prize.jpg)
 @snapend
 
-@snap[east span-30]
+@snap[east span-20]
 ![](assets/img/battery-consumption.png)
 @snapend
 
