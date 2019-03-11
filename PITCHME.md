@@ -42,7 +42,7 @@
 @snapend
 
 @snap[west span-55]
-## Since 2012
+## *Since 2012*
 @snapend
 
 @snap[east span-45]
