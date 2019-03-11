@@ -7,5 +7,5 @@
 @snapend
 
 @snap[east span-50]
-## halb halb
+![](assets/img/graduation.jpg)
 @snapend
