@@ -3,7 +3,8 @@
 ---
 
 @snap[west span-30]
-## GSIS 17 \n Euihyun Lee
+## GSIS MS 17
+## Euihyun Lee
 @snapend
 
 @snap[east span-70]
