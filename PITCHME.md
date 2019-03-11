@@ -37,7 +37,8 @@
 ---
 
 @snap[north-west]
-## Python: Undergrad. Course TA
+## Python: 
+## Undergraduate Course TA
 @snapend
 
 @snap[west span-55]
