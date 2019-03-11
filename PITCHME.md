@@ -2,10 +2,10 @@
 
 ---
 
-@snap[west span-30]
+@snap[west span-20]
 ## blah blah
 @snapend
 
-@snap[east span-100]
+@snap[east span-80]
 ![](assets/img/graduation.jpg)
 @snapend
