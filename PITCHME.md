@@ -42,7 +42,7 @@
 @snapend
 
 @snap[west span-55]
-## *Since 2012*
+## *Since 2012~*
 @snapend
 
 @snap[east span-45]
@@ -51,4 +51,27 @@
 
 @snap[south-east]
 # @size[0.1em](Logo from kaist.elice.io)
+@snapend
+
+---
+
+@snap[north-west]
+## Android:
+## Some Successful Projects
+@snapend
+
+@snap[west span-30]
+![](assets/img/android-2nd-prize.jpg)
+@snapend
+
+@snap[midpoint span-20]
+![](assets/img/battery-consumption.png)
+@snapend
+
+@snap[east span-50]
+![](assets/img/sars.png)
+@snapend
+
+@snap[south-east]
+# @size[0.1em](battery run-out image from buyijet.com)
 @snapend
