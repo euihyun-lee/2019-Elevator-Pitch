@@ -37,13 +37,17 @@
 ---
 
 @snap[north-west]
-## Python: Undergraduate Course TA
+## Python: Undergrad. Course TA
 @snapend
 
-@snap[west span-45]
+@snap[west span-55]
 ## Since 2012
 @snapend
 
-@snap[east span-55]
+@snap[east span-45]
 ![](assets/img/cs101-logo.png)
+@snapend
+
+@snap[south-east]
+# @size[0.1em](Logo from kaist.elice.io)
 @snapend
